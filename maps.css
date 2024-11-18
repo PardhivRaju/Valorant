@@ -1,0 +1,51 @@
+.head{
+display:flex;
+}
+.logo{
+border:0px solid lavenderflush;
+margin:0px 50px 0px 100px;
+font-style:italic;
+text-align:left;
+font-size:100px;
+color:red;
+}
+.log{
+border:0px solid lavenderflush;
+margin:0px 0px 0px 50px;
+text-align:right;
+font-size:100px;
+font-style:italic;
+color:red;
+}
+.haven{
+text-align:center;
+font-size:50px;
+background-image:url("haven.jpg");
+background-repeat:no-repeat;
+}
+.split{
+text-align:center;
+font-size:50px;
+background-image:url("split.jpg");
+background-repeat:no-repeat;
+color:Yellow;
+}
+.ascent{
+text-align:center;
+font-size:50px;
+background-image:url("ascent.png");
+background-repeat:no-repeat;
+color:green;
+}
+.p1{
+text-align:center;
+font-size:20px;
+}
+.p2{
+text-align:center;
+font-size:20px;
+}
+.p3{
+text-align:center;
+font-size:20px;
+}

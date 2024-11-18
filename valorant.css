@@ -1,0 +1,99 @@
+.name {
+font-style:italic;
+font-size:200px;
+color:red;
+background-image:url("w1.jpg");
+background-repeat:no-repeat;
+height:600px;
+width: 100%;
+position:relative;
+text-align:center;
+color:deeppink;
+}
+.game{
+font-size:30px;
+text-align:center;
+}
+.box{
+display:flex;
+text-align:center;
+}
+.duelists{
+border-radius:25px;
+border:0px solid white;
+background-color:purple;
+width:300px;
+font-size:40px;
+color:white;
+text-align:center;
+margin:5px;
+padding:10px;
+}
+.sentinels{
+border-radius:25px;
+border:0px solid white;
+background-color:purple;
+width:300px;
+font-size:40px;
+color:white;
+text-align:center;
+margin:5px;
+padding:10px;
+}
+.controllers{
+border-radius:25px;
+border:0px solid white;
+background-color:purple;
+width:300px;
+font-size:40px;
+color:white;
+text-align:center;
+margin:5px;
+padding:10px;
+}
+.initiaters{
+border-radius:25px;
+border:0px solid white;
+background-color:purple;
+width:300px;
+font-size:40px;
+color:white;
+text-align:center;
+margin:5px;
+padding:10px;
+}
+.main{
+border:0px solid white;
+background-color:grey;
+padding:5px;
+text-align:right;
+font-size:30px;
+}
+.home{
+border:0px solid grey;
+background-color:grey;
+border-width:1px 10px 1px 1px;
+color:LightGoldenRodYellow;
+}
+.agents{
+border:0px solid grey;
+background-color:grey;
+border-width:1px 10px 1px 1px;
+color:LightGoldenRodYellow;
+}
+.maps{
+border:0px solid grey;
+background-color:grey;
+border-width:1px 10px 1px 1px;
+color:LightGoldenRodYellow;
+}
+.about{
+font-size:20px;
+text-align:center;
+}
+h1.jett{
+font-size:50px;
+text-align:center;
+color:RoyalBlue;
+}
+
